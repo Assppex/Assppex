@@ -2,11 +2,11 @@
 <div id="badges" height:100px >
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
-  <img src="raspberrypi.svg" display = inline-block height = 50px background-color = white>
-  <img src="espressif.svg" display = inline-block height = 50px background-color = white>
-  <img src="c.svg"display = inline-block height = 50px background-color = white>
-  <img src="cplusplus.svg" display = inline-block height = 50px background-color = white>
-  <img src="nodedotjs.svg" display = inline-block height = 50px background-color = white>
+  <img src="raspberrypi.svg" display = flex height = 50px background-color = white>
+  <img src="espressif.svg" display = flex height = 50px background-color = white>
+  <img src="c.svg" display = flex height = 50px background-color = white>
+  <img src="cplusplus.svg" display = flex height = 50px background-color = white>
+  <img src="nodedotjs.svg" display = flex height = 50px background-color = white>
 </div>
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assppex&theme=solarized_dark)
