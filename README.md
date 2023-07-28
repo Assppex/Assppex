@@ -1,11 +1,13 @@
 <h1 align="center">Hi there, I'm Artem
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
-<img src="raspberrypi.svg">
-<img src="espressif.svg">
-<img src="c.svg">
-<img src="cplusplus.svg">
-<img src="nodedotjs.svg">
+<div id="badges">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
+  <img src="raspberrypi.svg">
+  <img src="espressif.svg">
+  <img src="c.svg">
+  <img src="cplusplus.svg">
+  <img src="nodedotjs.svg">
+</div>
 
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
