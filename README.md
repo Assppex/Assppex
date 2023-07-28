@@ -9,7 +9,7 @@
   <img src="espressif.svg" height = 30px margin-left = 10px>
   <img src="c.svg"  height = 30px margin-left = 10px>
   <img src="cplusplus.svg"  height = 30px margin-left = 10px>
- 
+  <img src="nodedotjs.svg"  height = 30px margin-left = 10px>
 </div>
   
 <div display = flex justify-content:space-between top = 100px align = center>
