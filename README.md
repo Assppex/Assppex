@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi there, I'm  Artem 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
+  <h3 align="center">Math and mechanics student from Russia / Junior software developer</br> -----------------------------------------------------------------------</h3>
 </div>
 <h3 align = "left" >1) Skills:</h3>
 <div  height = "140px" display = "flex" justify-content = "space-between" background = "red" align = "center">
