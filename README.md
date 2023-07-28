@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
 </div>
-<h3 align = "left" >Skills and interests:</h3>
+<h3 align = "left" >1) Skills</h3>
 <div  height = "140px" display = "flex" justify-content = "space-between" background = "red" align = "center">
   <img src="raspberrypi.svg"   height = 48px color>
   <img src="espressif.svg" height = 48px margin-left = 10px>
