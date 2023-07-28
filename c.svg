@@ -4,9 +4,7 @@
 <style>
 
         @media (prefers-color-scheme: dark) {
-            fill: #ffffff;
+            fill: white;
         }
 </style>
-    
-    <path class="letters" d="..."/>
 </svg>
