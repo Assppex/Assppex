@@ -12,7 +12,7 @@
   <img src="nodedotjs.svg"  height = 48px margin-left = 10px>
 </div>
   
-<div display = flex justify-content:space-between top = 100px align = center>
+<div display = flex justify-content = space-between top = 100px align = center>
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assppex&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assppex&theme=solarized_dark)
