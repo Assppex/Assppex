@@ -24,7 +24,6 @@
    <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
 <h3 align = "left">Activity:</h3>
-<!--START_SECTION:waka-->
 name: Work Stats Readme
 
 on:
@@ -41,7 +40,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-<!--END_SECTION:waka-->
 </div>
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
