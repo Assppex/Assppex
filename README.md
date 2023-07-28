@@ -4,7 +4,7 @@
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
 </div>
 <div display = flex justify-content: space-between>
-  <img src="raspberrypi.svg"   height = 50px background = white>
+  <img src="raspberrypi.svg"   height = 50px fill = white>
   <img src="espressif.svg" height = 50px margin-left = 10px>
   <img src="c.svg"  height = 50px margin-left = 10px>
   <img src="cplusplus.svg"  height = 50px margin-left = 10px>
