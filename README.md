@@ -5,7 +5,7 @@
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</br> -----------------------------------------------------------------------</h3>
 </div>
 <div>
-<h3 align = "left">1) Skills:</h3>
+<h3 align = "left">Skills:</h3>
 <div  height = "140px" display = "flex" justify-content = "space-between" background = "red" align = "center">
   <img src="raspberrypi.svg"   height = 48px color>
   <img src="espressif.svg" height = 48px margin-left = 10px>
@@ -14,7 +14,7 @@
   <img src="nodedotjs.svg"  height = 48px margin-left = 10px>
   <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
-<h3 align = "left">2) Stats:</h3>
+<h3 align = "left">Stats:</h3>
   
 <div display = "flex" justify-content = "space-between" top = "100px" align = "center">
   
@@ -23,7 +23,7 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=assppex&theme=solarized_dark)
    <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
-<h3 align = "left">3) Activity:</h3>
+<h3 align = "left">Activity:</h3>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </div>
