@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Artem
 <div id="badges" height:100px>
-<h1 align="center">Hi there, I'm  Artem 
+<h1 align="center">
+  Hi there, I'm  Artem 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
 </div>
