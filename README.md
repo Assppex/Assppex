@@ -5,10 +5,10 @@
 </div>
 <div display = flex justify-content: space-between>
   <img src="raspberrypi.svg"   height = 50px background-color = white>
-  <img src="espressif.svg" height = 50px background-color = white>
-  <img src="c.svg"  height = 50px background-color = white>
-  <img src="cplusplus.svg"  height = 50px background-color = white>
-  <img src="nodedotjs.svg"  height = 50px background-color = white>
+  <img src="espressif.svg" height = 50px margin-left = 10px>
+  <img src="c.svg"  height = 50px margin-left = 10px>
+  <img src="cplusplus.svg"  height = 50px margin-left = 10px>
+  <img src="nodedotjs.svg"  height = 50px margin-left = 10px>
 </div>
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assppex&theme=solarized_dark)
