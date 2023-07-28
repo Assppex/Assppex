@@ -3,10 +3,10 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
   <img src="raspberrypi.svg" height = 50px background-color = white>
-  <img src="espressif.svg">
-  <img src="c.svg">
-  <img src="cplusplus.svg">
-  <img src="nodedotjs.svg">
+  <img src="espressif.svg" height = 50px background-color = white>
+  <img src="c.svg" height = 50px background-color = white>
+  <img src="cplusplus.svg" height = 50px background-color = white>
+  <img src="nodedotjs.svg" height = 50px background-color = white>
 </div>
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assppex&theme=solarized_dark)
