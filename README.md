@@ -24,8 +24,10 @@
    <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
 <h3 align = "left">Activity:</h3>
-
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Assppex&layout=compact&theme=buefy)](https://github.com/Assppex)
+<div align = "center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
 
 </div>
 <!--
