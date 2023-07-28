@@ -24,22 +24,8 @@
    <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
 <h3 align = "left">Activity:</h3>
-name: Work Stats Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
