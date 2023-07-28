@@ -24,8 +24,7 @@
    <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
 <h3 align = "left">Activity:</h3>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=assppexh&layout=compact&theme=buefy)](https://github.com/Assppex)
 </div>
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
