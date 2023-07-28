@@ -4,6 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</br> -----------------------------------------------------------------------</h3>
 </div>
+<div>
 <h3 align = "left">1) Skills:</h3>
 <div  height = "140px" display = "flex" justify-content = "space-between" background = "red" align = "center">
   <img src="raspberrypi.svg"   height = 48px color>
@@ -19,6 +20,7 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assppex&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=assppex&theme=solarized_dark)
   
+</div>
 </div>
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
