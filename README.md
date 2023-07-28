@@ -5,7 +5,7 @@
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
 </div>
 <div display = flex justify-content: space-between background-color = white align = center>
-  <img src="raspberrypi.svg"   height = 30px color = white  filter = invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);>
+  <img src="raspberrypi.svg"   height = 30px color = white  filter = invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%)>
   <img src="espressif.svg" height = 30px margin-left = 10px>
   <img src="c.svg"  height = 30px margin-left = 10px>
   <img src="cplusplus.svg"  height = 30px margin-left = 10px>
