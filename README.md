@@ -5,7 +5,7 @@
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
 </div>
 <div  height = "140px" display = "flex" justify-content = "space-between" background = "red" align = "center">
-  <img src="raspberrypi.svg"   height = 30px color>
+
   <img src="espressif.svg" height = 30px margin-left = 10px>
   <img src="c.svg"  height = 30px margin-left = 10px>
   <img src="cplusplus.svg"  height = 30px margin-left = 10px>
