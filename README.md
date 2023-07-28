@@ -13,14 +13,19 @@
   <img src="cplusplus.svg"  height = 48px margin-left = 10px>
   <img src="nodedotjs.svg"  height = 48px margin-left = 10px>
   <h3 align="center">  ----------------------------------------------------------------------- </h3>
-</div
+</div>
+<h3 align = "left">2) Stats:</h3>
+  
 <div display = "flex" justify-content = "space-between" top = "100px" align = "center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assppex&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assppex&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=assppex&theme=solarized_dark)
-  
+   <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
+<h3 align = "left">3) Activity:</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
