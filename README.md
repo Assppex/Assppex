@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Artem
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Math and mechanics student from Russia</h3>
+<h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
 
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
