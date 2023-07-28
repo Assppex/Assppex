@@ -25,7 +25,7 @@
 </div>
 <h3 align = "left">Activity:</h3>
 
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=assppexh&layout=compact&theme=buefy)](https://github.com/Assppex)
+[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=assppex&layout=compact&theme=buefy)](https://github.com/Assppex)
 
 </div>
 <!--
