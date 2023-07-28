@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Artem
-<div id="badges" height:100px>
+<div id="badges" height:100px display = inline-block>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3 align="center">Math and mechanics student from Russia / Junior software developer</h3>
   <img src="raspberrypi.svg" height = 50px background-color = white>
