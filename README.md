@@ -27,8 +27,8 @@
 <div align = "center">
   
 <!--[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Assppex&layout=compact&theme=buefy)](https://github.com/Assppex)-->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 </div>
 
 </div>
