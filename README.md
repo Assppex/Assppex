@@ -29,6 +29,13 @@
 <div align = "center">
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   41 mins         ███████████████████░░░░░░   76.55 %
+C            12 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
