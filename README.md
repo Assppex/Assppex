@@ -25,7 +25,7 @@
 </div>
   
 <!--[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Assppex&layout=compact&theme=buefy)](https://github.com/Assppex)-->
-<h3 align = "left">Activity:</h3>
+<h3 align = "left">Activity this week:</h3>
 <div align = "center">
 
 <!--START_SECTION:waka-->
