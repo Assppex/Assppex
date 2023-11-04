@@ -31,10 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C         1 hr 37 mins    ██████████████████████░░░   88.12 %
-Kconfig   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Other     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-CMake     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
