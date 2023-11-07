@@ -31,7 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C         1 hr 49 mins    ██████████████████████▒░░   89.05 %
+Other     12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Kconfig   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
