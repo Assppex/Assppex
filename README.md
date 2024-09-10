@@ -1,7 +1,7 @@
 <div id="badges" height:100px>
 <h1 align="center">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h3 align="center">Math and mechanics student from Russia / Junior software developer</br> -----------------------------------------------------------------------</h3>
+  <h3 align="center"></br> -----------------------------------------------------------------------</h3>
 </div>
 <div>
 <h3 align = "left">Skills:</h3>
