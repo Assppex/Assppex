@@ -20,17 +20,6 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=assppex&theme=solarized_dark)
    <h3 align="center">  ----------------------------------------------------------------------- </h3>
 </div>
-  
-<!--[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Assppex&layout=compact&theme=buefy)](https://github.com/Assppex)-->
-<h3 align = "left">Activity this week:</h3>
-<div align = "center">
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-</div>
-
 </div>
 <!--
 **Assppex/Assppex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
