@@ -6,7 +6,6 @@
 <div>
 <h3 align = "left">Skills:</h3>
 <div  height = "140px" display = "flex" justify-content = "space-between" background = "red" align = "center">
-  <img src="raspberrypi.svg"   height = 48px color>
   <img src="espressif.svg" height = 48px margin-left = 10px>
   <img src="c.svg"  height = 48px margin-left = 10px>
   <img src="cplusplus.svg"  height = 48px margin-left = 10px>
